@@ -1,7 +1,7 @@
 # dotfiles-debian
 Setup for a debian install (unstable version)
 
-##Installation of Applications
+### Installation of Applications
 ===
 The applications can be found in this script: 'install-apps.sh'.  To install the applications using the script...
 
