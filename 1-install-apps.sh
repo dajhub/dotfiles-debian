@@ -27,6 +27,7 @@ sudo apt install -y curl
 
 ### xfce
 sudo apt install -y xfce4-whiskermenu-plugin
+sudo apt install -y thunar-font-manager
 
 ### Librewolf -- debian unstable version [source: https://librewolf.net/installation/debian/]
 echo 'deb http://download.opensuse.org/repositories/home:/bgstack15:/aftermozilla/Debian_Unstable/ /' | sudo tee /etc/apt/sources.list.d/home:bgstack15:aftermozilla.list
