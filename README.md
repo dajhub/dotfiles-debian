@@ -20,6 +20,9 @@ Within the applications being installed, one of them is the 'xfce4-whiskermenu-p
 
 Use the additional shell scripts in the order they are numbered.  Worth checking content first,.e.g paths on '3-fonts.sh'.  Note that symbolic links are used.
 
+### Miscellaneous
+- Keyboard shortcut for rofi 'rofi -show drun'
+
 ### Useful Resources
 - Themes for xfce terminal: https://gogh-co.github.io/Gogh/
 - Nordic theme: https://www.xfce-look.org/p/1267246
