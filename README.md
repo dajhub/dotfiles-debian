@@ -22,3 +22,5 @@ Use the additional shell scripts in the order they are numbered.  Worth checking
 
 ### Useful Resources
 - Themes for xfce terminal: https://gogh-co.github.io/Gogh/
+- Nordic theme: https://www.xfce-look.org/p/1267246
+- Tela icon theme: https://www.xfce-look.org/p/1279924
