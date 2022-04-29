@@ -7,6 +7,7 @@ fi
 
 sudo apt-get update
 sudo apt-get upgrade
+
 ############################################################
 ### These installs are from the debian unstable repositories
 ############################################################
@@ -33,6 +34,7 @@ sudo apt install -y fonts-cantarell
 sudo apt install -y fonts-hack
 sudo apt install -y apt-listbugs
 sudo apt install -y fonts-ubuntu
+sudo apt install -y menulibre
 
 ### Librewolf -- debian unstable version [source: https://librewolf.net/installation/debian/]
 echo 'deb http://download.opensuse.org/repositories/home:/bgstack15:/aftermozilla/Debian_Unstable/ /' | sudo tee /etc/apt/sources.list.d/home:bgstack15:aftermozilla.list

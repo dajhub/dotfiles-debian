@@ -1,0 +1,31 @@
+.thunar .sidebar { background-color: #2B303C; }
+.thunar .standard-view .view { background-color: #2B303C; }
+
+
+#indicator-button* { -gtk-icon-transform: scale(1.2); }
+
+#whiskermenu-window {
+   background-color: #3B4252;
+   color: #ffffff; }
+
+
+#whiskermenu-window entry {
+	background-color: #3B4252;
+	font-size: 15px;
+	border: transparent;
+}
+
+/* Make treeview match*/
+
+#whiskermenu-window treeview {
+	background-color: #3B4252;
+	border: transparent;
+	color: #ffffff;
+}
+
+#whiskermenu-window iconview {
+	background-color: #3B4252;
+	color: #ffffff;
+}
+
+#whiskermenu-window .frame { border: 0px; }
