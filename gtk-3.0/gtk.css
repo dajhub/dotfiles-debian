@@ -1,5 +1,6 @@
-.thunar .sidebar { background-color: #2B303C; }
+.thunar .sidebar { background-color: #2E3440; }
 .thunar .standard-view .view { background-color: #2B303C; }
+.thunar .shortcuts-pane .view { background-color: #2B303C; }
 
 
 #indicator-button* { -gtk-icon-transform: scale(1.2); }
