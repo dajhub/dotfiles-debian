@@ -12,6 +12,7 @@ echo "Creating private folders for later use"
 [ -d $HOME"/.fonts" ] || mkdir -p $HOME"/.fonts"
 [ -d $HOME"/.local/share/themes" ] || mkdir -p $HOME"/.local/share/themes"
 [ -d $HOME"/.local/share/xfce4/terminal/colorschemes" ] || mkdir -p $HOME"/.local/share/xfce4/terminal/colorschemes"
+[ -d $HOME"/.config/gtk-3.0" ] || mkdir -p $HOME"/.config/gtk-3.0"
 
 
 echo "###############################################"
