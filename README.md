@@ -22,22 +22,23 @@ Use the additional shell scripts in the order they are numbered.  Worth checking
 
 ### Miscellaneous
 - Keyboard shortcut for rofi 'rofi -show drun'
-- xfce panel settings:
-	Display
-	- mode: deskbar
-	- Row size: 40 pixels
-	Items
-	- Whisker Menu
-	- Windows Buttons
-	- Separator
-	- Separator
-	- Status Tray Plugin
-	- PulseAudio Plugin
-	- Power Manager Plugin
-	- Notification Plugin
-	- Clock
-	- Separator
-	- Action Buttons
+- Xfce panel settings:
+	- Display
+		- mode: deskbar
+		- Row size: 40 pixels
+	- Items
+		- Whisker Menu
+		- Windows Buttons
+		- Separator
+		- Separator
+		- Status Tray Plugin
+		- PulseAudio Plugin
+		- Power Manager Plugin
+		- Notification Plugin
+		- Clock
+		- Separator
+		- Action Buttons
+		
 ### Useful Resources
 - Themes for xfce terminal: https://gogh-co.github.io/Gogh/
 - Nordic theme: https://www.xfce-look.org/p/1267246
