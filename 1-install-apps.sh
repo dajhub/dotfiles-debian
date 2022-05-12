@@ -22,6 +22,9 @@ sudo apt install -y viewnior
 sudo apt install -y gnome-boxes
 sudo apt install -y kitty
 sudo apt install -y rofi
+sudo apt install -y htop
+sudo apt install -y neofetch
+sudo apt install -y tlp
 
 ### Other
 sudo apt install -y git
@@ -35,6 +38,8 @@ sudo apt install -y fonts-hack
 sudo apt install -y apt-listbugs
 sudo apt install -y fonts-ubuntu
 sudo apt install -y menulibre
+sudo apt install -y slick-greeter
+sudo apt install -y xfce4-dev-tools
 
 ### Librewolf -- debian unstable version [source: https://librewolf.net/installation/debian/]
 echo 'deb http://download.opensuse.org/repositories/home:/bgstack15:/aftermozilla/Debian_Unstable/ /' | sudo tee /etc/apt/sources.list.d/home:bgstack15:aftermozilla.list

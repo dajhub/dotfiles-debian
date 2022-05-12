@@ -2,7 +2,7 @@ configuration {
   display-drun: "Applications:";
   display-window: "Windows:";
   drun-display-format: "{icon} {name}";
-  font: "Ubuntu Nerd Font Complete Medium 11";
+  font: "Ubuntu Nerd Font Complete Medium 10";
   modi: "window,run,drun,keys";
   show-icons: true;
   icon-theme: "Tela-Nord";
@@ -11,8 +11,8 @@ configuration {
 @theme "/dev/null"
 
 * {
-  bg: #282c34;
-  bg-alt: #21252b;
+  bg: #303643;
+  bg-alt: #2B303C;
 
   fg: #FFFFFF;
   fg-alt: #979eab;
@@ -28,8 +28,8 @@ configuration {
 window {
   width: 40%;
   border-radius: 5;
-  border: 2px solid;
-  border-color: #212329;
+  border: 0px solid;
+  border-color: #303643;
 }
 
 element {
@@ -48,7 +48,7 @@ element-text {
 }
 
 element-icon {
-  size: 30;
+  size: 20;
 }
 
 entry {
