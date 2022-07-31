@@ -11,13 +11,6 @@ The applications can be found in this script: 'install-apps.sh'.  To install the
 sudo ./1-install-apps.sh
 ~~~
 
-Other scrips can be install without sudo,ie.,
-
-~~~
-./2-personal-folders.sh
-./3-fonts.sh
-./4-themes.sh
-~~~
 
 Within the applications being installed, one of them is the 'xfce4-whiskermenu-plugin'.  Once placed on the panel, if you want to launch the whisker menu through the 'window' button you need to:
 - open the keyboard settings, 
@@ -26,26 +19,19 @@ Within the applications being installed, one of them is the 'xfce4-whiskermenu-p
 
 ### Additional Shell Scripts
 
-Use the additional shell scripts in the order they are numbered.  Worth checking content first,.e.g paths on '3-fonts.sh'.  Note that symbolic links are used.
+Use the additional shell scripts in the order they are numbered.  Worth checking content first,.e.g paths on '3-fonts.sh'.
+
+Unlike the 'Installation of Applications', these additionl scripts can be installed without sudo, i.e.,
+
+~~~
+./2-personal-folders.sh
+./3-fonts.sh
+./4-themes.sh
+~~~
 
 ### Miscellaneous
 - Keyboard shortcut for rofi 'rofi -show drun'
-- Xfce panel settings:
-	- Display
-		- mode: deskbar
-		- Row size: 40 pixels
-	- Items
-		- Whisker Menu
-		- Windows Buttons
-		- Separator
-		- Separator
-		- Status Tray Plugin
-		- PulseAudio Plugin
-		- Power Manager Plugin
-		- Notification Plugin
-		- Clock
-		- Separator
-		- Action Buttons
+
 		
 ### Useful Resources
 - Themes for xfce terminal: https://gogh-co.github.io/Gogh/
