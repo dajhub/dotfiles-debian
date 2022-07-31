@@ -14,9 +14,9 @@ sudo ./1-install-apps.sh
 Other scrips can be install without sudo,ie.,
 
 ~~~
-2-personal-folders.sh
-3-fonts.sh
-4-themes.sh
+./2-personal-folders.sh
+./3-fonts.sh
+./4-themes.sh
 ~~~
 
 Within the applications being installed, one of them is the 'xfce4-whiskermenu-plugin'.  Once placed on the panel, if you want to launch the whisker menu through the 'window' button you need to:
